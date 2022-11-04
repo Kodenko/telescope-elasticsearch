@@ -1,5 +1,5 @@
 {
-    "name": "jenky/telescope-elasticsearch",
+    "name": "foxett/telescope-elasticsearch",
     "type": "library",
     "description": "Elastisearch driver for Laravel Telescope",
     "keywords": [
