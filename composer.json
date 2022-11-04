@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "php" : ">7.1",
+        "php" : "^7.1",
         "jenky/laravel-elasticsearch": "^1.0@dev",
         "laravel/telescope": "^1.0"
     },
